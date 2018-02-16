@@ -15,7 +15,7 @@
 
 <body>
 
-  <span style "color:white">BETA VERSION (The backend isnt active yet...just click <a href = "shop2/index.html">HERE</a> to proceed.... </span>
+  <span style = "color:white" text-align:center";>BETA VERSION (The backend isnt active yet...just click <a href = "shop2/index.html">HERE</a> to proceed.... </span>
 
 
   <div class="form">
