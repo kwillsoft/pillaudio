@@ -15,9 +15,11 @@
 
 <body>
 
+  <span style "color:white">BETA VERSION (The backend isnt active yet...just click <a href = "shop2/index.html">HERE</a> to proceed.... </span>
+
+
   <div class="form">
   
-  <span>BETA VERSION (The backend isnt active yet...just click <a href = "shop2/index.html">HERE</a> to proceed.... </span>
       
       <ul class="tab-group">
         <li class="tab active"><a href="#signup">Sign Up</a></li>
