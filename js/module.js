@@ -386,7 +386,7 @@ var initPricingSwiper = function(){
             },
         },
         pricingSwiper,
-        pricingSwiperInit = false;
+        pricingSwiperInit = true;
 
 
     // Enable only at 750px+
